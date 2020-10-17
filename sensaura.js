@@ -54,19 +54,41 @@ function loadServices(data){
   $('#service-html').html(html);
 }
 
-//load services from vouchers.json
-$( document ).ready(function() {
-  console.log('doc ready')
-  const serviceDiv = $('#service-html');
-  if (serviceDiv.length>0) {
-    let serviceId = $('#service-html').attr('data-service')
-    $.ajax({
-      type: 'GET',
-      url: 'https://raw.githubusercontent.com/benpetro/sensaura/main/vouchers.json',
-      success: function(data){
-        let json = JSON.parse(data);
-        loadServices(json[parseInt(serviceId)]);
+function loadVouchers(vouchers){
+    $('[data-type="json_vouchers"]').each(function(div_num){
+      let div = $('[data-type="json_vouchers"]')[div_num];
+      let html = ''
+      if (vouchers && vouchers.length > 0){
+        for (let i = 0; i < vouchers.length; i++) {
+          const category = vouchers[i];
+          html += `<h2 style="white-space:pre-wrap;">${category.category}</h2>`;
+          category.items.forEach(function(voucher){
+            if (voucher.voucher == undefined || voucher.voucher){
+              html += `<h4>${voucher.title}</h4><p>${voucher.description}</p>`;
+              let items = [];
+              voucher.items.forEach(function(item){
+                items.push(
+                  `<tr><td class="time">${item.time}</td>` +
+                  `<td class="price">${item.price}</td>` +
+                  `<td class="button">${voucherWidgetHtml(item.serviceId, 'Order Voucher')}</td></tr>`
+                )
+              })
+              html += `<div class="sqs-block code-block sqs-block-code"><div class="sqs-block-content"><table class="voucher-price">${items.join('')}</table></div></div>`
+            }
+          })
+          if (i+1 < vouchers.length) {
+            html += "<div class=\"sqs-block horizontalrule-block sqs-block-horizontalrule\"><div class=\"sqs-block-content\"><hr /></div></div>"
+          }
+        }
       }
+      div.innerHTML = html;
     })
   }
-})
+
+  function voucherWidgetHtml(serviceId, buttonText){
+    return ("<healcode-widget data-version=\"0.2\"" +
+          " data-link-class=\"healcode-gift-card-text-link\" data-site-id=\"84850\" data-mb-site-id='960687' data-type='gift-card-link' " +
+          " data-inner-html='"+ buttonText +"'" +
+          " data-service-id='" + serviceId + "' />");
+  }
+
