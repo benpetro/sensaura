@@ -1,4 +1,3 @@
-<script type="text/javascript">
   // add to code injection on All pages (Settings > Advanced > Code Injection)
   $( document ).ready(function() {
     const serviceDiv = $('#service-html');
@@ -62,4 +61,3 @@
     }
     $('#service-html').html(html);
   }
-</script>
