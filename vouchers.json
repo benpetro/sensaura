@@ -180,5 +180,13 @@
 			"price": "$330",
 			"serviceId": "100074"
 		}]
+	}, {
+		"title": "Relax and Glow",
+		"description": "Feel the tension easing away from your body and mind with our massage and facial combination. The perfect treatment for the lovers of both and that fits into any busy schedule.",
+		"items": [{
+			"time": "1 hr 30 mins",
+			"price": "$195",
+			"serviceId": "100074"
+		}]
 	}]
 }]
