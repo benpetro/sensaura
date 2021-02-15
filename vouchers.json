@@ -157,6 +157,14 @@
 }, {
 	"category": "Packages",
 	"items": [{
+		"title": "Relax and Glow",
+		"description": "Feel the tension easing away from your body and mind with our massage and facial combination. The perfect treatment for the lovers of both and that fits into any busy schedule.",
+		"items": [{
+			"time": "1 hr 30 mins",
+			"price": "$195",
+			"serviceId": "100131"
+		}]
+	}, {
 		"title": "Inner Glow Package",
 		"description": "Restore your skin with our signature Sensaura facial followed by a relaxing therapeutic massage. You will feel good from the inside out after this treatment.",
 		"items": [{
@@ -179,14 +187,6 @@
 			"time": "2 hr 30 mins",
 			"price": "$330",
 			"serviceId": "100074"
-		}]
-	}, {
-		"title": "Relax and Glow",
-		"description": "Feel the tension easing away from your body and mind with our massage and facial combination. The perfect treatment for the lovers of both and that fits into any busy schedule.",
-		"items": [{
-			"time": "1 hr 30 mins",
-			"price": "$195",
-			"serviceId": ""
 		}]
 	}]
 }]
