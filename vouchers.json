@@ -159,6 +159,7 @@
 	"items": [{
 		"title": "Relax and Glow",
 		"description": "Feel the tension easing away from your body and mind with our massage and facial combination. The perfect treatment for the lovers of both and that fits into any busy schedule.",
+		"byline": "Express Facial . Therapeutic Back Massage",
 		"items": [{
 			"time": "1 hr 30 mins",
 			"price": "$195",
@@ -167,6 +168,7 @@
 	}, {
 		"title": "Inner Glow Package",
 		"description": "Restore your skin with our signature Sensaura facial followed by a relaxing therapeutic massage. You will feel good from the inside out after this treatment.",
+		"byline": "Therapeutic Massage . Signature Facial",
 		"items": [{
 			"time": "2 hr 30 mins",
 			"price": "$300",
@@ -175,6 +177,7 @@
 	}, {
 		"title": "Body Revival Package",
 		"description": "Scrub away dead skin with an essential oil blended body scrub, then relax with a therapeutic massage. A great treatment to rejuvenate your mind and body.",
+		"byline": "Body Scrub . Mini Facial . Therapeutic Massage",
 		"items": [{
 			"time": "2 hr 15 mins",
 			"price": "$300",
@@ -183,6 +186,7 @@
 	}, {
 		"title": "Sensaura Body Workout Package",
 		"description": "Begin with a dry exfoliation to promote circulation and remove dead skin cells. A mud mask enriched with essential oils and purifying clay is then applied to draw out impurities. You will be wrapped in a cocoon whilst relaxing with a luxurious conditioning head massage. Rinse off with a shower and end your treatment with a relaxing therapeutic massage.",
+		"byline": "Body Scrub . Mini Facial . Clay Body Wrap . Therapeutic Massage",
 		"items": [{
 			"time": "2 hr 30 mins",
 			"price": "$330",
