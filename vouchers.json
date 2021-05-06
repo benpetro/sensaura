@@ -125,7 +125,7 @@
 		"items": [{
 			"time": "45 mins",
 			"price": "$105",
-			"serviceId": "100046"
+			"serviceId": null
 		}]
 	}]
 }, {
