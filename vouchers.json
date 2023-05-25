@@ -201,5 +201,14 @@
       "price": "$330",
       "serviceId": "100074"
     }]
+  }, {
+    "title": "Sensaura Escape",
+    "description": "Begin your escape at Sensaura with a comforting cup of herbal tea. Enjoy a soothing foot ritual and indulge in a deeply relaxing warm stone back of the body massage. A rejuvenating facial including a face, neck, shoulder and scalp massage will follow. Complete your experience with a cheese platter and a complimentary glass of bubbles on our tranquil balcony.",
+    "byline": "",
+    "items": [{
+      "time": "2 hrs",
+      "price": "$280",
+      "serviceId": ""
+    }]
   }]
 }]
