@@ -1,26 +1,59 @@
 [
   {
-    "category": "Ayurvedic Treatments",
+    "category": "Guest Favourites",
     "items": [
       {
-        "title": "Abhyanga Massage",
-        "description": "Drawing from the ancient healing rituals of Ayurveda this treatment is designed for complete relaxation and restoration. An Ayurvedic medicated oil will be selected to suit your body type, warmed and applied with the long flowing strokes of a traditional Abhyanga massage, encouraging the herbal benefits of the oil to penetrate into the deeper layers of the body's tissues.",
+        "title": "Relaxation Massage",
+        "description": "Delight in a full body relaxation massage using a collection of techniques that will help you immediately unwind, de-stress, increase blood flow and movement, reduce tension, and help you to feel balanced and calm. Pressure tailored to your needs.",
         "items": [
           {
-            "time": "1 hr",
-            "price": "$160",
-            "serviceId": "100120"
+            "time": "1 hr 15 mins",
+            "price": "$200",
+            "serviceId": ""
           }
         ]
       },
       {
-        "title": "Shiro Pichu",
-        "description": "This treatment fosters a deep sense of calm and relaxation through the gentle and continuous pouring of warmed Brahmi oil on the forehead and scalp. This unique experience incorporates gentle strokes with Marma Point Therapy which is drawn from Ayurvedic principles and will have you tuning out of your mind and melting in to your body.",
+        "title": "Hot Stone",
+        "description": "Extend the benefits of your massage with a soothing hot stone treatment incorporating warm basalt stones to quiet the mind, aid in the release of muscle tension, and calm the nervous system. Allow the heat of the stones to work deeply into the muscle, softening and melting away any tension and tight areas of the body.",
         "items": [
           {
-            "time": "1 hr",
-            "price": "$150",
-            "serviceId": "100121"
+            "time": "1 hr 30 mins",
+            "price": "$250",
+            "serviceId": ""
+          }
+        ]
+      },
+      {
+        "title": "Sensaura Signature Facial",
+        "description": "Deeply relaxing and rejuvenating, our signature facial has it all, with an abundance of massage including the face, neck, decolletage and scalp, along with an organic rich facial that will visibly improve the tone and texture of your skin. You will drift away and be in complete bliss! A guest favourite!",
+        "items": [
+          {
+            "time": "1 hr 15 mins",
+            "price": "$220",
+            "serviceId": ""
+          }
+        ]
+      },
+      {
+        "title": "Relax and Restore",
+        "description": "Restore your body with a relaxation massage followed by our signature facial. You will feel magnificent from the inside out after this treatment. The best of both worlds!",
+        "items": [
+          {
+            "time": "1 hr 15 mins",
+            "price": "$380",
+            "serviceId": ""
+          }
+        ]
+      },
+      {
+        "title": "Nurture and Nourish",
+        "description": "Feel nurtured with a soothing foot ritual, and then indulge in a deeply relaxing warm stone back massage. A nourishing signature facial including a face, neck, shoulder, and scalp massage will follow. Complete your experience with a cheese and fruit platter and a complimentary glass of sparkling wine or juice, to be enjoyed on our tranquil and tropical balcony.",
+        "items": [
+          {
+            "time": "2 hr",
+            "price": "$420",
+            "serviceId": ""
           }
         ]
       }
@@ -30,119 +63,158 @@
     "category": "Massage",
     "items": [
       {
-        "title": "Therapeutic Massage",
-        "description": "A full body massage that will help you immediately unwind, reduce tension, re-align your body, unblock energy channels and help you feel balanced and calm.",
+        "title": "RELAXATION",
+        "description": "Delight in a full body relaxation massage using a collection of techniques that will help you immediately unwind, de-stress, increase blood flow and movement, reduce tension, and help you to feel balanced and calm. Pressure tailored to your needs.",
         "items": [
           {
             "time": "1 hr 15 mins",
-            "price": "$150",
-            "serviceId": "100039"
+            "price": "$200",
+            "serviceId": ""
           },
           {
             "time": "1 hr 30 mins",
-            "price": "$170",
-            "serviceId": "100043"
-          },
-          {
-            "time": "2 hrs",
-            "price": "$215",
-            "serviceId": "100060"
+            "price": "$240",
+            "serviceId": ""
           }
         ]
       },
       {
-        "title": "Remedial Massage",
-        "description": "An intensive deep tissue massage that will relieve chronic tension, stubborn knots and soreness.",
+        "title": "REMEDIAL",
+        "description": "Unwind tightness from your tender and stiff muscles, target specific problem areas, release chronic tension, and increase blood flow. Assists in the recovery from the injuries of everyday life.",
         "items": [
           {
             "time": "1 hr 15 mins",
-            "price": "$160",
-            "serviceId": "100041"
+            "price": "$210",
+            "serviceId": ""
           },
           {
             "time": "1 hr 30 mins",
-            "price": "$185",
-            "serviceId": "100044"
-          },
-          {
-            "time": "2 hrs 30 mins",
-            "price": "$330",
-            "serviceId": "100074"
+            "price": "$250",
+            "serviceId": ""
           }
         ]
       },
       {
-        "title": "Mum-to-be Massage",
-        "description": "A full body, therapeutic and individually tailored nurturing massage that will relieve muscle fatigue, lower back pain and leg tension associated with the trimesters of pregnancy.",
+        "title": "HOT STONE",
+        "description": "Extend the benefits of your massage with a soothing hot stone treatment incorporating warm basalt stones to quiet the mind, aid in the release of muscle tension, and calm the nervous system. Allow the heat of the stones to work deeply into the muscle, softening and melting away any tension and tight areas of the body.",
         "items": [
           {
-            "time": "1 hr 15 mins",
-            "price": "$150",
-            "serviceId": "100042"
-          },
-          {
             "time": "1 hr 30 mins",
-            "price": "$170",
-            "serviceId": "100062"
-          },
-          {
-            "time": "2 hrs",
-            "price": "$215",
-            "serviceId": "100063"
+            "price": "$250",
+            "serviceId": ""
           }
         ]
       },
       {
-        "title": "Lymphatic Massage",
-        "description": "This is a light, toxin-targeting massage that removes tissue waste and helps to stimulate circulation, recharge your immune system and reduce stress and bloating.",
+        "title": "AYURVEDIC ABHYANGA",
+        "description": "Drawing from ancient healing rituals of Ayurveda, this treatment is designed for complete relaxation and restoration. A consultation with your therapist will aid in the selection of an Ayurvedic medicated oil and massage techniques, to suit your body type or condition. The warmth and herbal benefits of the oil will penetrate the deeper layers of the body’s tissues, and nervous system to truly calm the mind.",
         "items": [
           {
             "time": "1 hr 15 mins",
-            "price": "$150",
-            "serviceId": "100064"
-          },
-          {
-            "time": "1 hr 30 mins",
-            "price": "$170",
-            "serviceId": "100065"
-          },
-          {
-            "time": "2 hrs",
-            "price": "$215",
-            "serviceId": "100066"
+            "price": "$210",
+            "serviceId": ""
           }
         ]
       },
       {
-        "title": "Reflexology",
-        "description": "If it aches in your body it can be fixed in your feet Reflexology is a natural healing therapy that cures physical soreness and stiffness by massaging the corresponding reflex in your feet. It will help detox your body, restore balance, boost your immunity and improve circulation.",
+        "title": "LYMPHATIC",
+        "description": "A very light massage pressure using sequenced techniques that encourages stimulation of lymph fluid and removal of toxins. Assists in recharging your immune system, fluid retention, swelling and fatigue. Great for boosting your immunity and promoting healing and recovery.",
+        "items": [
+          {
+            "time": "1 hr 15 mins",
+            "price": "$210",
+            "serviceId": ""
+          },
+          {
+            "time": "1 hr 30 mins",
+            "price": "$250",
+            "serviceId": ""
+          }
+        ]
+      },
+      {
+        "title": "MUM-TO-BE",
+        "description": "A gentle style of massage designed to relieve the pains and strains of pregnancy, enhance the function of muscles and joints, improve circulation, and ease mental and physical fatigue. You will feel well supported with the use of a pregnancy massage cushion, allowing you to lay on your much desired front once again. Suitable for 2nd and 3rd trimesters only.",
+        "items": [
+          {
+            "time": "1 hr 15 mins",
+            "price": "$200",
+            "serviceId": ""
+          },
+          {
+            "time": "1 hr 30 mins",
+            "price": "$240",
+            "serviceId": ""
+          }
+        ]
+      },
+      {
+        "title": "REFLEXOLOGY",
+        "description": "An ancient, natural healing massage therapy designed for the whole being. Pressure upon various reflex points in the feet are applied, allowing toxins to be released and balance restored. Emerge feeling deeply rested and renewed.",
         "items": [
           {
             "time": "1 hr",
-            "price": "$130",
-            "serviceId": "100067"
+            "price": "$170",
+            "serviceId": ""
           }
         ]
       },
       {
-        "title": "Hot Rock Massage",
-        "description": "This Hot Rock Experience focuses on soothing the nervous system and quietening the mind, enabling the body to slip into deep relaxation. The therapist works their magic in releasing deep tension stored in the muscles and joints of the body, whilst the heat of the stones melt away any of life’s stresses.",
+        "title": "MASSAGE FOR TWO",
+        "description": "Enjoy a heavenly massage for two in the comfort of our double treatment room. Take time to embrace wellness on a romantic retreat, a girl’s getaway, or for a family bonding treat. ",
+        "byline": "**Any massage can be selected. Just mention you are booking our double room",
+        "items": [
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Body Treatments",
+    "items": [
+      {
+        "title": "RAINFOREST RENEWAL",
+        "description": "Liberate the senses combining luxurious rainforest native rosella, quandong, Davidson plum and coconut infused body scrub. Together with a cleansing mini facial and a soothe the mind, tension releasing head massage, will continue your experience. Follow with a shower to refreshen the skin and finish with a body lotion application enriched with finger lime caviar to leave your skin feeling smooth, soft, and glowing with renewed radiance. ",
+        "byline": "Full Body Exfoliation – Mini Facial – Head Massage - Body Hydration",
         "items": [
           {
-            "time": "1 hr",
-            "price": "$150",
-            "serviceId": "100045"
+            "time": "1 hr 15 mins",
+            "price": "$210",
+            "serviceId": ""
           }
         ]
       },
       {
-        "title": "Deep Tissue Massage",
-        "description": "This Hot Rock Treatment is focused on using the heat of the Stones to relax, soften and release deep tension within the body allowing your therapist to effectively work out those tough knots and tight areas of the body.",
+        "title": "OCEAN BLISS VOLCANIC MINERAL",
+        "description": "Regenerate and invigorate the body with a full body exfoliation and a deeply cleansing, warming and anti- inflammatory body mask, infusing calming marine botanicals, purifying clay, seaweed and magnesium salts. Designed to boost circulation, prevent dryness, and soften and even skin tone. Relax cocooned in a natural body wrap whilst enjoying a mini facial and a luxurious head massage. Complete your treatment with a refreshing shower and a nourishing body lotion application, enriched with Australian botanicals and sea minerals. This blissful journey will leave your whole being looking and feeling revitalised. ",
+        "byline": "Full Body Exfoliation – Clay Mask – Body Wrap – Mini Facial – Head Massage – Body Hydration",
         "items": [
           {
             "time": "1 hr 30 mins",
-            "price": "$215",
-            "serviceId": "100068"
+            "price": "$250",
+            "serviceId": ""
+          }
+        ]
+      },
+      {
+        "title": "BALANCING HAIR & SCALP TREAT",
+        "description": "Revive your follicles with balancing oils to bring the whole body back into harmony. A warm and luxurious aromatic hair and scalp elixir is applied, incorporating various massage techniques, to reduce stress and tension of the scalp, while the conditioning treatment works its magic. Indulge in a deeply relaxing neck, and shoulder massage to reduce the busy mind. Stimulates hair growth, restores lustre and moisture, leaving the hair silky soft and full of life. ",
+        "byline": "Hair Elixir - Neck and Shoulder Massage - Acupressure Scalp Massage",
+        "items": [
+          {
+            "time": "1 hr",
+            "price": "$170",
+            "serviceId": ""
+          }
+        ]
+      },
+      {
+        "title": "DRY BODY BUFF (ADD-ON)",
+        "description": "A must add-on to any body treatment with a range of incredible benefits. Dry body brushing invigorates the skin, encourages circulation, removes dead skin cells and flaky skin, aids in the removal of toxins, unclogs pores, supports digestion, promotes lymphatic flow, and will leave the skin feeling softer and smoother.",
+        "items": [
+          {
+            "time": "15 mins",
+            "price": "$45",
+            "serviceId": ""
           }
         ]
       }
@@ -152,73 +224,111 @@
     "category": "Facials",
     "items": [
       {
-        "title": "Signature Facial",
-        "description": "Give your face a natural lift with this rejuvenating massage, cleansing, exfoliation, detoxification and moisturising treatment that will leave your skin feeling hydrated, invigorated and fully refreshed. A scalp, neck and face massage throughout will keep you relaxed for the duration of your session. Our range of Synthesis Organics Australian made vegan products are enriched with pure organic ingredients and essential oils and will leave your skin feeling calm, hydrated, revitalised and beautifully soft. Products used in each facial treatment will be tailored to your skin needs.",
+        "title": "SKIN RENEWAL",
+        "description": "Cleanse, exfoliate and hydrate, this facial will leave your skin feeling refreshed and renewed. Perfect as an add on to any massage or body treatment or just as enjoyable on its own.",
         "items": [
           {
-            "time": "1 hr 15 mins",
-            "price": "$165",
-            "serviceId": "100046"
+            "time": "45 mins",
+            "price": "$135",
+            "serviceId": ""
           }
         ]
       },
       {
-        "title": "Express Facial",
-        "description": "Cleanse, exfoliate, nourish and hydrate with our Synthesis Organics express facial. This facial will leave your skin feeling refreshed and rejuvenated.",
+        "title": "SENSAURA SIGNATURE",
+        "description": "Deeply relaxing and rejuvenating, our signature facial has it all, with an abundance of massage including the face, neck, decolletage and scalp, along with an organic rich facial that will visibly improve the tone and texture of your skin. You will drift away and be in complete bliss! A guest favourite!",
         "items": [
           {
-            "time": "45 mins",
-            "price": "$105",
-            "serviceId": null
+            "time": "1 hr 15 mins",
+            "price": "$220",
+            "serviceId": ""
+          }
+        ]
+      },
+      {
+        "title": "GUA SHA GLOW",
+        "description": "Combining the ancient techniques of Gua Sha with high performance organic skincare suited to your personal needs. Your experience begins with moisture quenching products in combination with a healing stone which glides over the skin with lymphatic drainage technique to visibly lift, tone, brighten and revitalise the complexion. Enjoy a scalp, hand, foot, and the ultimate facial massage throughout your facial journey. A result driven facial where you will equally feel pampered and plump.",
+        "items": [
+          {
+            "time": "1 hr 30 mins",
+            "price": "$260",
+            "serviceId": ""
+          }
+        ]
+      },
+      {
+        "title": "EYE INSPIRE",
+        "description": "Brightens and lifts the eye area, this treatment decongests puffy, tired eyes, visibly improving the appearance. Smooths away fine lines and conceals dark circles. A specially formulated mineral mask draws out stagnant toxins accumulated around the eye area, along with key acupressure point massage. A restoring treatment for anyone suffering from stress, jet lag, allergies, lack of sleep or too much screen time.",
+        "items": [
+          {
+            "time": "15 mins",
+            "price": "$45",
+            "serviceId": ""
           }
         ]
       }
     ]
   },
   {
-    "category": "Body Treatment",
+    "category": "Hands & Feet",
     "items": [
       {
-        "title": "Body Scrub",
-        "description": "Liberate the senses with an essential oil infused body scrub together with a cleansing mini facial. Freshen up in the shower, then finish off with a moisturising body lotion to leave your skin feeling soft and re-hydrated.",
+        "title": "ME-TIME MANICURE",
+        "description": "An intensive treatment for the hands beginning with a softening hand bath and a gentle hand exfoliation, nail shaping and buffing, cuticle care, and a relaxing hand and arm massage to reveal softer and smoother hands. Finish with your favourite splash of colour and a mini neck massage while your paint dries. Includes a non- toxic, vegan, and cruelty-free polish to keep!",
+        "byline": "",
+        "items": [
+          {
+            "time": "45 mins",
+            "price": "$85",
+            "serviceId": ""
+          }
+        ]
+      },
+      {
+        "title": "FEET RETREAT",
+        "description": "Immerse your feet in a relaxing footbath and enjoy a stimulating foot exfoliation. You will leave walking on air after nail shaping and buffing, cuticle care, and a nourishing foot massage. Finish with your favourite splash of colour and a mini neck massage while your paint dries. Includes a non-toxic, vegan, and cruelty-free polish to keep!",
+        "byline": "",
         "items": [
           {
             "time": "1 hr",
-            "price": "$160",
-            "serviceId": "100069"
+            "price": "$110",
+            "serviceId": ""
           }
         ]
       },
       {
-        "title": "Body Mask",
-        "description": "Cleanse and invigorate your body and senses with an essential oil infused body scrub followed by a mud mask enriched with essential oils and purifying clay to detox. Relax cocooned in a natural body wrap whilst enjoying a blissful mini facial and luxurious head massage. Finish off with a refreshing shower and moisturising body lotion.",
+        "title": "TOP TO TOE",
+        "description": "Combining our Me-Time Manicure and Feet Retreat. Drift away with a tension releasing scalp and neck massage, and you will leave relaxed and renewed with fingers and toes looking fabulous. Includes a non-toxic, vegan, and cruelty-free polish to keep!",
+        "byline": "",
         "items": [
           {
-            "time": "1 hr 15 mins",
-            "price": "$200",
-            "serviceId": "100070"
+            "time": "1 hr 45 mins",
+            "price": "$195",
+            "serviceId": ""
           }
         ]
       },
       {
-        "title": "Nourishing Moisture Wrap",
-        "description": "Enliven the senses with a dry exfoliation. Your body will then be coated in a warm, nourishing oil. Wrapped in a heavenly cocoon that seals in moisture, you will enjoy a conditioning scalp treatment together with a mini facial.",
+        "title": "FOOT SOOTHER",
+        "description": "Soothe tired feet and feel grounded with a softening foot soak, an energising exfoliant and a relaxing foot massage. **can be added to any treatment",
+        "byline": "",
         "items": [
           {
-            "time": "1 hr 15 mins",
-            "price": "$185",
-            "serviceId": "100071"
+            "time": "30 mins",
+            "price": "$80",
+            "serviceId": ""
           }
         ]
       },
       {
-        "title": "Hair and Scalp Treat",
-        "description": "Revive your follicles with a moisturising hair mask treatment, and enjoy a blissful scalp and neck massage while the moisturiser works its magic.",
+        "title": "PARAFFIN WAX TREATMENT",
+        "description": "The perfect finish for your hands or feet to reduce joint stiffness, improve elasticity and deeply infuse moisture, leaving incredibly silky smooth and soft skin. Especially ideal for dry, cracked hands and feet",
+        "byline": "",
         "items": [
           {
-            "time": "1 hr",
-            "price": "$130",
-            "serviceId": "100072"
+            "time": "15 mins",
+            "price": "$45",
+            "serviceId": ""
           }
         ]
       }
@@ -228,78 +338,157 @@
     "category": "Packages",
     "items": [
       {
-        "title": "Relax and Glow",
-        "description": "Feel the tension easing away from your body and mind with our massage and facial combination. The perfect treatment for the lovers of both and that fits into any busy schedule.",
-        "byline": "Express Facial &bull; Therapeutic Back Massage",
+        "title": "RELAX AND GLOW",
+        "description": "Feel the tension easing away from your body and mind with our massage and facial combo. The perfect treatment for the lovers of both, which fits perfectly into any busy schedule.",
+        "byline": "Back Massage – Skin Renewal Facial",
         "items": [
           {
-            "time": "1 hr 30 mins",
-            "price": "$195",
-            "serviceId": "100131"
+            "time": "1 hr 15 mins",
+            "price": "$215",
+            "serviceId": ""
           }
         ]
       },
       {
-        "title": "Inner Glow Package",
-        "description": "Restore your skin with our signature Sensaura facial followed by a relaxing therapeutic massage. You will feel good from the inside out after this treatment.",
-        "byline": "Therapeutic Massage &bull; Signature Facial",
-        "items": [
-          {
-            "time": "2 hr 30 mins",
-            "price": "$300",
-            "serviceId": "100047"
-          }
-        ]
-      },
-      {
-        "title": "Body Revival Package",
-        "description": "Scrub away dead skin with an essential oil blended body scrub, then relax with a therapeutic massage. A great treatment to rejuvenate your mind and body.",
-        "byline": "Body Scrub &bull; Mini Facial &bull; Therapeutic Massage",
+        "title": "RELAX AND RESTORE",
+        "description": "Restore your body with a relaxation massage followed by our signature facial. You will feel magnificent from the inside out after this treatment. The best of both worlds!",
+        "byline": "Relaxation Massage – Sensaura Signature Facial",
         "items": [
           {
             "time": "2 hr 15 mins",
-            "price": "$300",
-            "serviceId": "100073"
+            "price": "$380",
+            "serviceId": ""
           }
         ]
       },
       {
-        "title": "Sensaura Body Workout Package",
-        "description": "Begin with a dry exfoliation to promote circulation and remove dead skin cells. A mud mask enriched with essential oils and purifying clay is then applied to draw out impurities. You will be wrapped in a cocoon whilst relaxing with a luxurious conditioning head massage. Rinse off with a shower and end your treatment with a relaxing therapeutic massage.",
-        "byline": "Body Scrub &bull; Mini Facial &bull; Clay Body Wrap &bull; Therapeutic Massage",
+        "title": "NURTURE AND NOURISH",
+        "description": "Feel nurtured with a soothing foot ritual, and then indulge in a deeply relaxing warm stone back massage. A nourishing signature facial including a face, neck, shoulder, and scalp massage will follow. Complete your experience with a cheese and fruit platter and a complimentary glass of sparkling wine or juice, to be enjoyed on our tranquil and tropical balcony.",
+        "byline": "Foot Ritual – Hot Stone Back Massage – Sensaura Signature Facial – Cheese & Fruit Platter - Refreshments",
         "items": [
           {
-            "time": "2 hr 30 mins",
-            "price": "$330",
-            "serviceId": "100074"
+            "time": "2 hr",
+            "price": "$420",
+            "serviceId": ""
           }
         ]
       },
       {
-        "title": "Sensaura Escape",
-        "description": "Begin your escape at Sensaura with a comforting cup of herbal tea. Enjoy a soothing foot ritual and indulge in a deeply relaxing warm stone back of the body massage. A rejuvenating facial including a face, neck, shoulder and scalp massage will follow. Complete your experience with a cheese platter and a complimentary glass of bubbles on our tranquil balcony.",
-        "byline": "",
+        "title": "BODY REVIVAL",
+        "description": "A body buff will commence your revival with an essential oil blended exfoliant. Bliss out with a relaxation massage followed by a mini facial and scalp massage to complete your renewed self. The perfect treatment to rejuvenate the body and mind.",
+        "byline": "Full Body Exfoliation - Relaxation Massage - Mini Facial – Scalp Massage",
         "items": [
           {
-            "time": "2 hrs",
-            "price": "$330",
-            "serviceId": "100074"
+            "time": "2 hr 15 mins",
+            "price": "$370",
+            "serviceId": ""
+          }
+        ]
+      },
+      {
+        "title": "MUM-TO-BE-JOURNEY",
+        "description": "Time to nurture and support you and your growing baby. Take time out by relaxing with our signature pregnancy tea, while your feet are immersed in a warming and soothing foot bath. A foot massage is performed to relieve any tension and swelling. Melt into a massage designed specifically for the needs of prenatal women, relaxing tense muscles and easing the mind. Complete your wellness journey with a mini facial for the ultimate relaxation experience. The perfect combination to take a moment to relax during this special time. Suitable for 2nd and 3rd trimesters",
+        "byline": "Pregnancy Tea – Foot Soak – Foot Massage – Mum-To- Be Massage – Mini Facial – Scalp Massage",
+        "items": [
+          {
+            "time": "1 hr 30 mins",
+            "price": "$245",
+            "serviceId": ""
+          }
+        ]
+      },
+      {
+        "title": "SENSAURA ESCAPE",
+        "description": "Our 1⁄2 day ultimate wellness day out with all our favourite therapies! Designed for anyone who wants to escape from reality and completely unwind and reset. Enjoy some solo self-love or spend quality time with a loved one nurturing your body, mind, and soul. Begin your morning with gentle yoga, breathwork and meditation on our tropical balcony. Ease into the morning with a cup of our signature herbal tea and a light bite to activate your senses and induce relaxation. Your therapist will complete a consultation while you enjoy a soothing foot soak, followed by a foot scrub and massage. An invigorating dry body buff will follow with its incredible benefits from encouraging circulation to leaving the skin feeling soft and smooth. Entirely let go with a relaxation massage to promote calmness, balance, and reduce tension. Awaken to a light lunch and a glass of sparkling wine or juice before enjoying our signature facial including the face, neck, decolletage and scalp to conclude your ultimate wellness escape.",
+        "byline": "Yoga – Breathwork – Meditation – Herbal tea – Refreshments – Foot Soother - Relaxation Massage – Signature Facial – Light Lunch",
+        "items": [
+          {
+            "time": "5 hr",
+            "price": "$720",
+            "serviceId": ""
+          }
+        ]
+      },
+      {
+        "title": "RECONNECT AND RECHARGE",
+        "description": "Group Package (Minimum 3). Occasions are for sharing experiences and celebrating meaningful moments in our lives. Whether it is a bridal shower, birthday, team building, Christmas party or a group getaway, we have the perfect package to reconnect and recharge. Unwind with a soothing pot of herbal tea, connect with your mind and body with breathwork and a yoga session, followed by our Foot Soother including a foot soak, scrub and foot massage. Complete your time together with some delicious cheese, fruit and sparkling wine or juice, the perfect way to end your day, enjoyed on our private tropical balcony.",
+        "byline": "Herbal tea – Breathwork & Yoga – Foot Soother – Ref reshments",
+        "items": [
+          {
+            "time": "1 hr 30 mins",
+            "price": "$160 per person",
+            "serviceId": ""
           }
         ]
       }
     ]
   },
   {
-    "category": "Reiki",
+    "category": "Wellbeing",
     "items": [
       {
-        "title": "Reiki",
-        "description": "A holistic energy healing system created from universal life force energy that works on the physical, mental, emotional, and spiritual body. Targets stress reduction, which is the beginning of all imbalances. Reiki promotes a deep state of relaxation and the body’s natural ability to heal is activated, harmonising and balancing the energy centres (chakras). This is a non-invasive form of hands-on healing, where you stay fully clothed.",
+        "title": "YOGA",
+        "description": "Balance and bliss await you at Sensaura Yoga Studio set amongst stunning natural surroundings. Join us in body, mind, and spirit, and you will experience a rejuvenating and mindful practice customised to suit everyone. Our yoga classes combine flowing postures with conscious breath work and focus, to enhance and develop flexibility, body awareness and mental clarity. Leave feeling in balance, at peace and inspired.",
+        "byline": "",
+        "items": [
+          {
+            "time": "1 hr",
+            "price": "$30",
+            "serviceId": ""
+          },
+          {
+            "time": "1 hr Private (individual)",
+            "price": "$90",
+            "serviceId": ""
+          },
+          {
+            "time": "1 hr Private Group (min. 3)",
+            "price": "from $150",
+            "serviceId": ""
+          },
+          {
+            "time": "Additional guests",
+            "price": "$30 per person",
+            "serviceId": ""
+          }
+        ]
+      },
+      {
+        "title": "MEDITATION",
+        "description": "Relax and reset with mindful meditation. Our classes provide a supportive and welcoming environment, allowing you to explore various meditation techniques and deepen your practice, whether you’re a beginner or experienced, these classes are designed to guide you on a journey of self-discovery and relaxation. By incorporating mindfulness into your daily life, you can reduce stress, improve focus, and enhance overall well-being. These classes offer an opportunity to disconnect from the outside world and reconnect with yourself.",
+        "byline": "",
+        "items": [
+          {
+            "time": "1 hr",
+            "price": "$30",
+            "serviceId": ""
+          },
+          {
+            "time": "1 hr Private (individual)",
+            "price": "$90",
+            "serviceId": ""
+          },
+          {
+            "time": "1 hr Private Group (min. 3)",
+            "price": "from $150",
+            "serviceId": ""
+          },
+          {
+            "time": "Additional guests",
+            "price": "$30 per person",
+            "serviceId": ""
+          }
+        ]
+      },
+      {
+        "title": "REIKI",
+        "description": "A holistic energy healing system created from universal life force energy, that works on the physical, mental, emotional, and spiritual body. Targets stress reduction, which is the beginning of all imbalances. It promotes a deep state of relaxation, the body’s natural ability to heal is activated, with harmonising and balancing the energy centres (chakras). This is a non-invasive form of hands-on healing, where you stay fully clothed.",
+        "byline": "",
         "items": [
           {
             "time": "1 hr 30 mins",
-            "price": "$260",
-            "serviceId": "100120"
+            "price": "$250",
+            "serviceId": ""
           }
         ]
       }
