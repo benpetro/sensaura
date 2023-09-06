@@ -208,8 +208,9 @@
         ]
       },
       {
-        "title": "DRY BODY BUFF (ADD-ON)",
+        "title": "DRY BODY BUFF",
         "description": "A must add-on to any body treatment with a range of incredible benefits. Dry body brushing invigorates the skin, encourages circulation, removes dead skin cells and flaky skin, aids in the removal of toxins, unclogs pores, supports digestion, promotes lymphatic flow, and will leave the skin feeling softer and smoother.",
+        "byline": "This can be added on to any body treatment",
         "items": [
           {
             "time": "15 mins",
@@ -259,6 +260,7 @@
       {
         "title": "EYE INSPIRE",
         "description": "Brightens and lifts the eye area, this treatment decongests puffy, tired eyes, visibly improving the appearance. Smooths away fine lines and conceals dark circles. A specially formulated mineral mask draws out stagnant toxins accumulated around the eye area, along with key acupressure point massage. A restoring treatment for anyone suffering from stress, jet lag, allergies, lack of sleep or too much screen time.",
+        "byline": "This can be added on to any facial treatment",
         "items": [
           {
             "time": "15 mins",
@@ -323,7 +325,7 @@
       {
         "title": "PARAFFIN WAX TREATMENT",
         "description": "The perfect finish for your hands or feet to reduce joint stiffness, improve elasticity and deeply infuse moisture, leaving incredibly silky smooth and soft skin. Especially ideal for dry, cracked hands and feet",
-        "byline": "",
+        "byline": "This can be added on to any foot treatment",
         "items": [
           {
             "time": "15 mins",
